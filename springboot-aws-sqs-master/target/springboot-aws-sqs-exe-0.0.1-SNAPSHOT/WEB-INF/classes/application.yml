@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIAW2NIDD24AIRRAZOI
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/469040832184/DemoQueue

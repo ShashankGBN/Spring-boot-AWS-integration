@@ -1,0 +1,3 @@
+com/javatechie/aws/sqs/controller/AwsSQSController.class
+com/javatechie/aws/sqs/config/AwsSQSConfig.class
+com/javatechie/aws/sqs/SpringbootAwsSqsExeApplication.class
